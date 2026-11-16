@@ -1,0 +1,7 @@
+/config/database.local.php
+.env
+/vendor/
+/storage/uploads/*
+!/storage/uploads/species/.gitkeep
+.DS_Store
+Thumbs.db
