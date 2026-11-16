@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace App\\Controllers;
+namespace App\Controllers;
 
-use App\\Core\\Controller;
-use App\\Models\\Species;
+use App\Core\Controller;
+use App\Models\Species;
 
 class SpeciesController extends Controller
 {
